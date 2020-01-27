@@ -1,8 +1,10 @@
 # Sparkify
 
 
-# Data Science Capstone - Churn Prediction at Sparkify 
+# Data Science Capstone
+
 # Project Definition
+
 **Overview**
 
 This project is part of my Data Science Nano-degree at Udacity. In this final project, i will attempt to create a machine learning model, which will be able to predict when users at Sparkify are about to churn.
