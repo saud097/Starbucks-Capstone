@@ -32,7 +32,7 @@ It demonstrates the process of using pyspark to explore the data and build the m
 ## Result
 We Split the feature & target variable data set into train, test and then built pipeline and implemented 3 machine learning models. Since the churned users are a fairly small subset, we used F1 score as the metric to optimize and we found GBTClassifier better model compared to other One.
 
-I post a blog about the detail, you can find it here.
+I post a blog about the detail, you can find it [here](.
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Udacity for the project. And instructions in the notebook are also well prepared by Udacity team.
