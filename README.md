@@ -73,4 +73,4 @@ Based on the transcript records, we build an user-item-matrix that represents ho
 In the later section, we found out which demographic groups respond best to which offer type. Female respond much better than men, in both BOGO and discount. Men react slightly better to discount than BOGO. We also found that it is better to promote the offer via social media. Among the ten offers, sending buy 10 dollars get 2 dollars off within 10 days offer via email, web, mobile and social makes Starbucks gain more. It is the best offer so far!
 
 ## Licensing, Authors, Acknowledgements ##
-Must give credit to Stakbucks for the data.
+Must give credit to Stakbucks for the data
